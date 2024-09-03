@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Yan's
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Yan's Research Group** is on the process of establishing. This website is deployed based on templete from https://hugoblox.com/templates/  . We will take times to update these informations
   
   - block: collection
     content:
