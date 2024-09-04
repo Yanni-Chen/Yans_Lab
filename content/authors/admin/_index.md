@@ -31,9 +31,9 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Information and Communication Engineering
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2016.09-2018.07
     - course: BSc in Information Engineerigng
       institution: China University of Mining and Technology
       year: 2012.09-2016.06
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yanchen@ieee.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
