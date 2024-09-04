@@ -73,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yan Chen is currently a Postdoctoral Researcher with the Center of Wireless Communications, University of Oulu, Oulu 90570, Finland. From December 2020 to December 2021, he was also a visiting Ph.D. student at Aalto University, Finland. His research interests include Edge Computing, Internet of Things, AI-driven network management, and Wireless networks.
