@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mobile computing, 6G, IoT, and Reinforcement Learning.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI-Native 6G network
+  - Internet of Things
+  - Edge Intelligence
 
 education:
   courses:
