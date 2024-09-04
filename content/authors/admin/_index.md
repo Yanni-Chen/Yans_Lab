@@ -34,9 +34,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Information Engineerigng
+      institution: China University of Mining and Technology
+      year: 2012.09-2016.06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
