@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Information and Communication Engineering
+      institution: China University of Mining and Technology
+      year: 2018.09-2033.07
     - course: MEng in Information and Communication Engineering
-      institution: Massachusetts Institute of Technology
-      year: 2016.09-2018.07
+      institution: China University of Mining and Technology
+      year: 2016.09-2018.07 (Transfered)
     - course: BSc in Information Engineerigng
       institution: China University of Mining and Technology
       year: 2012.09-2016.06
@@ -65,7 +65,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: True
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
