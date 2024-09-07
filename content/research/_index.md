@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+       Take a time and look at our research topic
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Yan's Research Group** is on the process of establishing. This website is deployed based on templete from https://hugoblox.com/templates/  . We will take times to update these informations
+
   - block: slider
     content:
       slides:
