@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Edge Intelligence
 date: 2022-10-24
 
 type: landing

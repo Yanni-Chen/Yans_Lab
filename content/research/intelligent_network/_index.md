@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Intelligent Network
 date: 2022-10-24
 
 type: landing

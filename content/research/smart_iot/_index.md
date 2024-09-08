@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Smart IoT
 date: 2022-10-24
 
 type: landing
