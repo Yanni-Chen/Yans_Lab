@@ -8,15 +8,6 @@ sections:
   - block: hero
     content:
       title: |
-       Intelligent Network
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        This amis to contribute our 
-  - block: hero
-    content:
-      title: |
        Edge Intelligence
       image:
         filename: welcome.jpg
