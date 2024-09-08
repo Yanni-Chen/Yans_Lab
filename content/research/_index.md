@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: Intelligent Network
+  - block: Card
     content:
       title: |
        Intelligent Network
@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         This amis to contribute our 
-  - block: Edge Intelligence
+  - block: Card
     content:
       title: |
        Edge Intelligence
