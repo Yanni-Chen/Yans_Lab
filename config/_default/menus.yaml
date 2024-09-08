@@ -25,6 +25,15 @@ main:
     parent: research
     url: research/intelligent_network/
     weight: 10
+  - name: Edge Intelligence
+    parent: research
+    url: research/edge_intelligent/
+    weight: 20
+  - name: Smart IoT
+    parent: research
+    url: research/smart_iot/
+    weight: 30
+
   - name: Publications
     url: publication
     weight: 60
