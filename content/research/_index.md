@@ -5,16 +5,25 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: Intelligent Network
     content:
       title: |
-       Take a time and look at our research topic
+       Intelligent Network
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Yan's Research Group** is on the process of establishing. This website is deployed based on templete from https://hugoblox.com/templates/  . We will take times to update these informations
+        This amis to contribute our 
+  - block: Edge Intelligence
+    content:
+      title: |
+       Edge Intelligence
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        This amis to contribute our 
+
 
   - block: slider
     content:
