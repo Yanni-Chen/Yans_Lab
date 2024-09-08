@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Open resource
 
 # Listing view
 view: compact
