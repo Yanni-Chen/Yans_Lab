@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: compact
+  - block: hero
     content:
       title: |
        Intelligent Network
@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         This amis to contribute our 
-  - block: compact
+  - block: hero
     content:
       title: |
        Edge Intelligence
