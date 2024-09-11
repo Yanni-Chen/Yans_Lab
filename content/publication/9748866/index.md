@@ -2,7 +2,7 @@
 title: Dynamic Task Allocation and Service Migration in Edge-Cloud IoT System Based
   on Deep Reinforcement Learning
 authors:
-- Yan Chen
+- admin
 - Yanjing Sun
 - Chenyang Wang
 - Tarik Taleb
@@ -12,4 +12,8 @@ publication_types:
 - article-journal
 publication: '*IEEE Internet of Things Journal*'
 doi: 10.1109/JIOT.2022.3164441
+
+projects:
+- internal-projec
+
 ---
