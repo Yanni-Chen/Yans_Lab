@@ -34,7 +34,7 @@ main:
     url: research/smart_iot/
     weight: 30
   - name: Open Resource
-  parent: research
+    parent: research
     url: research/open_resource/
     weight: 70
   - name: Publications
