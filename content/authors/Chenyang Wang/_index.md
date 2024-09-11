@@ -8,7 +8,7 @@ last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - Yerik Chen
+  - Chenyang Wang
 
 # Is this the primary user of the site?
 superuser: false
