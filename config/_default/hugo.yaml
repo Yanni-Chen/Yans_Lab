@@ -31,6 +31,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  fundingd: '/fundings/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -45,6 +46,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  funding: fundings 
 markup:
   _merge: deep
 related:
