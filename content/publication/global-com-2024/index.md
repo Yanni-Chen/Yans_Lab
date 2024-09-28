@@ -14,5 +14,5 @@ publication_types:
 - paper-conference
 publication: '*GlobalCom 2024 - IEEE Global Communications Conference*'
 categories: ["Art"]
-fundings: ["aerOS", "6G-Path"]
+tags: ["aerOS", "6G-Path"]
 ---
