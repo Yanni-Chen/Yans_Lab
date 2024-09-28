@@ -13,4 +13,5 @@ publishDate: '2024-09-04T17:07:12.220494Z'
 publication_types:
 - paper-conference
 publication: '*GlobalCom 2024 - IEEE Global Communications Conference*'
+categories: ["Art"]
 ---
